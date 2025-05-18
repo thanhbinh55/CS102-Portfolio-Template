@@ -29,10 +29,10 @@ type SocialLink = {
 
 export const EMAIL = ''
 
-export const WEB_TITLE = 'Name - Personal Website'
+export const WEB_TITLE = 'Thanh Binh Website'
 export const WEB_DESCRIPTION =
   'A personal website showcasing my work and projects.'
-export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
+export const FOOTER_COPYRIGHT = '© 2025 Ngo Viet Binh.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
 export const NAME = 'Nguyen Van B'
